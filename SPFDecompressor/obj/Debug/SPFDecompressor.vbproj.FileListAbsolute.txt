@@ -1,0 +1,12 @@
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\obj\Debug\SPFDecompressor.vbprojResolveAssemblyReference.cache
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\obj\Debug\SPFDecompressor.SPFDecompressor.resources
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\obj\Debug\SPFDecompressor.Resources.resources
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\obj\Debug\SPFDecompressor.vbproj.GenerateResource.Cache
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\obj\Debug\SPFDecompressor.xml
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\bin\Debug\SPFDecompressor.exe.config
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\bin\Debug\SPFDecompressor.exe
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\bin\Debug\SPFDecompressor.pdb
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\bin\Debug\SPFDecompressor.xml
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\bin\Debug\SPFCommon.dll
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\obj\Debug\SPFDecompressor.exe
+C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor\SPFDecompressor\SPFDecompressor\obj\Debug\SPFDecompressor.pdb
