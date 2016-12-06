@@ -9,6 +9,7 @@ Public Class SPFDecompressor
     Public Delegate Sub StartCallBack(ByVal lintMax As Integer)
     Public Delegate Sub ExitCallBack()
 
+
     Private t1 As System.Threading.Thread
     Dim lstwLog As StreamWriter
 

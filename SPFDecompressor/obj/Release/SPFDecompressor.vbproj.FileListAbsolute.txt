@@ -21,3 +21,7 @@ C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor_Source\SPFDecompressor\SPFDecompr
 C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor_Source\SPFDecompressor\SPFDecompressor\obj\Release\SPFDecompressor.SPFDecompressor.resources
 C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor_Source\SPFDecompressor\SPFDecompressor\obj\Release\SPFDecompressor.Resources.resources
 C:\Users\jlee3.INGRNET\Desktop\SPFDecompressor_Source\SPFDecompressor\SPFDecompressor\obj\Release\SPFDecompressor.vbproj.GenerateResource.Cache
+C:\Users\jlee3\Source\Repos\SPFDecompressor\SPFDecompressor\bin\Release\SPFDecompressor.exe.config
+C:\Users\jlee3\Source\Repos\SPFDecompressor\SPFDecompressor\obj\Release\SPFDecompressor.exe
+C:\Users\jlee3\Source\Repos\SPFDecompressor\SPFDecompressor\obj\Release\SPFDecompressor.xml
+C:\Users\jlee3\Source\Repos\SPFDecompressor\SPFDecompressor\obj\Release\SPFDecompressor.pdb
